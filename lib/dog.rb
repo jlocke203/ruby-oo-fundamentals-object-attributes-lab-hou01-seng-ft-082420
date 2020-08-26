@@ -2,7 +2,7 @@ class Dog
   
   name = "pointer"
   
-def initialize(name)
+def initialize
     @name = name 
   end 
 end 
