@@ -1,9 +1,10 @@
 class Dog 
-  
-  name = "pointer"
-  
-def initialize
+  def initialization(name)
     @name = name 
   end 
+   
+   def name(new_name)
+     @name = new_name
 end 
-    
+
+end 
